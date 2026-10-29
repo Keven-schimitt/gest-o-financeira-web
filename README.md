@@ -1,9 +1,9 @@
 # gest-o-financeira-web
 Um site voltado para os empresários que trabalham fazendo gestão financeira.
 
-controle de entrada e saída
-analise de credito
-conferência bancária automática
+controle de entrada e saída,
+analise de credito,
+conferência bancária automática.
 
 entidades relacionadas:
 1. Cliente
